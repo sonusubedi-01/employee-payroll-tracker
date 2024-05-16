@@ -26,6 +26,12 @@ This application allows user to manage employee data. Users can collect employee
 4. The program also randomly picks an employee as a winner and logs the details in console. 
 
 
+## Webpage visual look
+
+![alt text](images/employee-payroll-tracker-1.png)
+
+![alt text](images/employee-payroll-tracker-2.png)
+
 
 ## Contributing
 
