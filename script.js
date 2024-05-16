@@ -21,7 +21,6 @@ const collectEmployees = function() {
       lastName: lastName,
       salary: salary
     };
-    console.log(employee);
     employees.push(employee);
 
     addEmployee = confirm("Do you want to add another employee?");
